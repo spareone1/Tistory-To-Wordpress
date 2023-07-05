@@ -12,9 +12,9 @@
 ### 사용법
 1. 다음과 같은 Python 모듈이 필요합니다.
 ```
-  pip install requests
-  pip install beautifulsoup4
-  pip install python-wordpress-xmlrpc
+pip install requests
+pip install beautifulsoup4
+pip install python-wordpress-xmlrpc
 ```
 
 2. 티스토리 게시물을 모두 공개로 변경합니다.
