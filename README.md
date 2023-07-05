@@ -11,11 +11,11 @@
 
 ### 사용법
 1. 다음과 같은 Python 모듈이 필요합니다.
-
+```
   pip install requests
   pip install beautifulsoup4
   pip install python-wordpress-xmlrpc
-
+```
 
 2. 티스토리 게시물을 모두 공개로 변경합니다.
 (Python으로 티스토리 로그인을 하여 세션 유지를 하면 비공개 글도 옮길 수 있을 것 같긴 한데, 이 당시 귀찮아서 구현하지 않았습니다. 나중에 업데이트 할 의사가 있으나, 일단 필요시 직접 구현하여 사용해 주시기 바랍니다.)
